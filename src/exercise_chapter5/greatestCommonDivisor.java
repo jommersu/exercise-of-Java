@@ -2,10 +2,6 @@ package exercise_chapter5;
 
 import java.util.Scanner;
 
-import org.omg.CORBA.portable.ValueBase;
-
-import exercise_chapter3.theChineseZodiac;
-
 public class greatestCommonDivisor {
 
 	public static void main(String[] args) {
