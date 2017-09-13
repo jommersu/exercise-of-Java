@@ -1,7 +1,10 @@
 package exercise_chapter5;
 
 import java.util.Scanner;
-
+/*
+ 	1-15之间的随机加法，记录正确个数、打印结果，统计测试时间
+ 	
+ */
 public class exercise_5_2 {
 
 	public static void main(String[] args) {
