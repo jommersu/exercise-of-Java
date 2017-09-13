@@ -1,7 +1,10 @@
 package exercise_chapter5;
 
 import java.util.Scanner;
-
+/*
+        读入未指定个数的整数，统计正负数的个数，输入为0时结束。
+        打印这些数的总和与平均值
+ */
 public class exercise_5_1 {
 
 	public static void main(String[] args) {
