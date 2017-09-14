@@ -4,7 +4,7 @@ public class generateRandomChar {
 
 	public static void main(String[] args) {
 		for(int i = 0; i < 5; i++) {
-			System.out.println(getRandom('a' , 'z'));
+			System.out.println(getRandom('A' , 'Z'));
 		}
 
 	}
