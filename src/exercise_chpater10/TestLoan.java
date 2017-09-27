@@ -21,6 +21,7 @@ public class TestLoan {
 				+ myLoan.getMounthlyPayment());
 		System.out.println("The total Payment is " 
 				+ myLoan.getTotalPayment());
+		
 	}
 
 }
