@@ -20,6 +20,8 @@ public class ArrayListMethods {
 		ArrayList<Integer> numbersList = new ArrayList<>(Arrays.asList(numbers));
 		java.util.Collections.sort(numbersList);
 		System.out.println(numbersList);
+		java.util.Collections.shuffle(numbersList);
+		System.out.println(numbersList);
 	}
 
 }
