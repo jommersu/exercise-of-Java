@@ -15,7 +15,7 @@ public class PalindromeIgnoreNonAlphanumeric {
 				" a palindrome ignoring nonalphanumeric charachters? "
 				+ isPalindrome(s));
 
-	}
+	}   
 	
 	public static boolean isPalindrome(String s) {
 		String s1 = filter(s);
