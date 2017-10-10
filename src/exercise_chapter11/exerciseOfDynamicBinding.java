@@ -8,7 +8,7 @@ public class exerciseOfDynamicBinding {
 		new Person2().printPerson();
 		new Student2().printPerson();
 
-	}
+	}  
 
 }
 
