@@ -5,9 +5,9 @@ import java.util.ArrayList;
 public class stackTest {
 
 	public static void main(String[] args) {
-		myStake stakeTest = new myStake();
-		
+		myStake stakeTest = new myStake();		
 		char ch = 'a';
+		
 		for(int i = 0; i < 5; i++) {
 			
 			String test = Character.toString(ch);
