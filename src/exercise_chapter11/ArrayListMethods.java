@@ -15,6 +15,13 @@ public class ArrayListMethods {
 		array.toArray(list2);
 		System.out.println(array);
 
+		//new ex
+		Integer[] number2 = {3,2,6,35,56,5};
+		ArrayList<Integer> Arraynumber2 = new ArrayList<>(Arrays.asList(number2));
+		System.out.println(Arraynumber2.get(2));
+		java.util.Collections.sort(Arraynumber2);
+		System.out.println(Arraynumber2);
+
 		//sort
 		Integer[] numbers = {2,3,45,46,56,74};
 		ArrayList<Integer> numbersList = new ArrayList<>(Arrays.asList(numbers));
